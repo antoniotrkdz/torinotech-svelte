@@ -9,7 +9,7 @@
 
 <div class="card">
   <div class="card-image">
-    <figure class="image is-4by3">
+    <figure class="image">
       <img src={"img/groups/"}{img} alt="Placeholder image">
     </figure>
   </div>
